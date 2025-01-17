@@ -1,2 +1,2 @@
 # Latihan-Python
-Kumpulan source code python yang cocok untuk pemula. DIjabarkan beberapa fungsi dan objek dari python untuk bahan pembelajaran yang baru mulai coding 
+Kumpulan source code python yang cocok untuk pemula yang baru belajar pyton. Selamat belajar, semoga bermanfaat!!!
